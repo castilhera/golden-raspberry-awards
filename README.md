@@ -32,7 +32,7 @@ cd golden-raspberry-awards\src\GoldenRaspberryAwards.Api
 dotnet restore
 ```
 
-##  Executar
+##  Execução
 
 Para executar a API, no diretório do projeto da API, utilize o seguinte comando:
 
