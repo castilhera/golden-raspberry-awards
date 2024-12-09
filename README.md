@@ -34,11 +34,14 @@ dotnet restore
 
 ##  Executar
 
-Para executar a API, no diretório do projeto, utilize o seguinte comando:
+Para executar a API, no diretório do projeto da API, utilize o seguinte comando:
 
 ```sh
 dotnet run
 ```
+
+> [!IMPORTANT]
+> Endpoint do Swagger: /swagger/index.html
 
 ## Testes
 
