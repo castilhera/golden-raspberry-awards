@@ -47,7 +47,7 @@ dotnet run
 
 ### Testes de Integração
 
-Para o teste de integração:
+Para executar os testes de integração:
 
 1. Navegue até o diretório do projeto de testes de integração:
 
