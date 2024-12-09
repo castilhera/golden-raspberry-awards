@@ -1,0 +1,6 @@
+﻿2012;A Thousand Words;Paramount Pictures, DreamWorks;Nicolas Cage, Alain Chabat, Stephanie Danan, Norman Golightly, Brian Robbinsand Sharla Sumpter Bridgett;
+Brian Robbinsand Sharla Sumpter Bridgett => Brian Robbins and Sharla Sumpter Bridgett
+----
+2006;Little Man;Columbia Pictures, Revolution Studios;Rick Alvares, Lee Mays, Marlon Wayans and Shawn Wayans;
+Rick Alvares => Rick Alvarez
+Lee Mays => Lee R. Mayes
