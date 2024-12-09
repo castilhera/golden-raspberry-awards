@@ -21,7 +21,7 @@ Para instalar e executar o projeto:
 git clone https://github.com/castilhera/golden-raspberry-awards
 ```
 
-2. Navegue até a pasta do projeto:
+2. Navegue até o diretório do projeto da API:
 ```sh
 cd golden-raspberry-awards\src\GoldenRaspberryAwards.Api
 ```
@@ -34,7 +34,7 @@ dotnet restore
 
 ##  Executar
 
-Para executar a API, na pasta do projeto, utilize o seguinte comando:
+Para executar a API, no diretório do projeto, utilize o seguinte comando:
 
 ```sh
 dotnet run
@@ -44,9 +44,9 @@ dotnet run
 
 ### Testes de Integração
 
-Para o teste de integração, mantenha a aplicação em execução.
+Para o teste de integração:
 
-1. Navegue até o diretório do projeto de testes:
+1. Navegue até o diretório do projeto de testes de integração:
 
 ```sh
 cd golden-raspberry-awards\tests\GoldenRaspberryAwards.Api.IntegrationTests
