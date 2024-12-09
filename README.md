@@ -32,19 +32,22 @@ cd golden-raspberry-awards\src\GoldenRaspberryAwards.Api
 dotnet restore
 ```
 
-##  Executar
+##  Execução
 
-Para executar a API, no diretório do projeto, utilize o seguinte comando:
+Para executar a API, no diretório do projeto da API, utilize o seguinte comando:
 
 ```sh
 dotnet run
 ```
 
+> [!IMPORTANT]
+> Endpoint do Swagger: /swagger/index.html
+
 ## Testes
 
 ### Testes de Integração
 
-Para o teste de integração:
+Para executar os testes de integração:
 
 1. Navegue até o diretório do projeto de testes de integração:
 
